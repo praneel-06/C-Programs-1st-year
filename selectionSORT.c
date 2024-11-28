@@ -19,7 +19,7 @@ int main(){
             }
         }
         a[pos]=a[i];
-        small=a[i];
+        a[i]=small;
     }
     printf("sorted array is as follows: ");
     for(i=0;i<n;i++){
