@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "genericROOT.C": "cpp"
+        "*.c": "c",
+        "genericROOT.C": "cpp",
+        "stdlib.h": "c",
+        "stdio.h": "c"
     }
 }

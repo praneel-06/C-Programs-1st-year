@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 int main() {
+    printf("Name:Praneel Chetlapalli\n");
+    printf("RollNo:245805376\n");
     int nums[200],i,temp,n,k,t,j;
     scanf("%d",&n);
     if(n<1 || n>105){
@@ -59,3 +61,4 @@ int main() {
         }
     }
 return 0;
+}

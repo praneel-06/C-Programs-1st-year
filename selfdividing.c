@@ -2,6 +2,9 @@
 #include <stdlib.h>
 
 int main(){
+    printf("Name:Praneel Chetlapalli\n");
+    printf("RollNo:245805376\n");
+
     int n1,rem,selfd=1,left,right,i,a[100],k=0;
     printf("left(>=1): ");
     scanf("%d",&left);
@@ -31,5 +34,6 @@ int main(){
     for(i=0;i<k;i++){
         printf("%d ",a[i]);
     }
+    
 
 }
