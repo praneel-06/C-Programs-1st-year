@@ -10,7 +10,7 @@ int main(){
     }
     r=&a[0];
     for(i=1;i<n;i++){
-        if(*(a+i)<*r){
+        if(*(a+i)>*r){
             r=a+i;
         }
     }

@@ -3,6 +3,7 @@
         "*.c": "c",
         "genericROOT.C": "cpp",
         "stdlib.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "sstream": "c"
     }
 }
